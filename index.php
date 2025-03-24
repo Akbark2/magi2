@@ -1,6 +1,12 @@
 <?php
 $title = "Magis TV – Canales en directo y HD, filmes, series, deportes";
 
+// Add the meta tags for Google indexing and verification
+echo "<head>
+    <meta name='robots' content='index, follow' /> <!-- This is the robo tag for Google indexing -->
+    <meta name='google-site-verification' content='NXPj3aLMxGA5iY0xeahfQri22ZBuLW8Zl_EfqWejHUA' /> <!-- Verification code -->
+</head>";
+
 $content = "<h1>$title</h1>
 <p>Magis TV ofrece más de 1300 canales en directo y HD, junto con más de 50,000 series y películas. También cuenta con más de 250 canales de deportes y programas a la carta en todas tus pantallas con una señal estable.</p>
 
@@ -37,8 +43,8 @@ $content = "<h1>$title</h1>
 <h2>Enlace al sitio oficial</h2>
 <p>Si deseas más información, visita el <a href='https://themagistv.com.co' target='_blank'>sitio oficial de Magis TV</a>.</p>
 
-<h2>Conclusión</h2>
-<p>Si buscas una aplicación confiable para ver televisión en vivo sin interrupciones, Magis TV Apk es una de las mejores opciones disponibles. Ofrece una excelente calidad de transmisión, compatibilidad con múltiples dispositivos y una interfaz fácil de usar.</p>";
-
-echo $content;
-?>
+<h2>Otros Enlaces:</h2>
+<ul>
+    <li><a href='https://magistv-68e4f8.gitlab.io/' target='_blank'>https://magistv-68e4f8.gitlab.io/</a></li>
+    <li><a href='https://f005.backblazeb2.com/file/Magi01/index.html' target='_blank'>https://f005.backblazeb2.com/file/Magi01/index.html</a></li>
+    <li><a href='https://magistv0.netlify.app/' target='
