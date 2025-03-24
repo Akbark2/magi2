@@ -40,3 +40,12 @@ $content = "<h1>$title</h1>
 
 <h2>Enlace al sitio oficial</h2>
 <p>Si deseas más información, visita el <a href='https://themagistv.com.co' target='_blank'>sitio oficial de Magis TV</a>.</p>
+<h2>Otros Enlaces:</h2>
+<ul>
+    <li><a href='https://magistv-68e4f8.gitlab.io/' target='_blank'>https://magistv-68e4f8.gitlab.io/</a></li>
+    <li><a href='https://f005.backblazeb2.com/file/Magi01/index.html' target='_blank'>https://f005.backblazeb2.com/file/Magi01/index.html</a></li>
+    <li><a href='https://magistv0.netlify.app/' target='_blank'>https://magistv0.netlify.app/</a></li>
+    <li><a href='https://magi-woad.vercel.app/' target='_blank'>https://magi-woad.vercel.app/</a></li>
+    <li><a href='https://magi-qzrj.onrender.com' target='_blank'>https://magi-qzrj.onrender.com</a></li>
+</ul>";
+?>
